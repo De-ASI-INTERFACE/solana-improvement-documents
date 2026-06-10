@@ -3,7 +3,7 @@ name: Access Voucher
 about: Request triage/write/maintain access for SIMDs
 title: Request Access (Level [X]) for [Username]
 labels: access
-assignees: jacobcreech
+assignees: deasi
 
 ---
 
